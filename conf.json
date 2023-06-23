@@ -1,0 +1,16 @@
+{
+  "dataPath": "/home/usuario/data",
+
+  "serverWs": "wss://implantes.ddns.net",
+  "serverWsPort": 8080,
+  "serverKey": "/etc/letsencrypt/archive/implantes.ddns.net/privkey9.pem",
+  "serverCert": "/etc/letsencrypt/archive/implantes.ddns.net/fullchain9.pem",
+
+  "pathNamePacientes": "PACIENTES",
+  "dataExportedName": "exported waveforms",
+
+  "strapiEnabled": true,
+  "strapiHostname": "http://localhost:1337",
+  "strapiUsername": "client",
+  "strapiPassword": "client12A!"
+}
